@@ -7,5 +7,6 @@
 <br>
 
 <img src="https://github.com/kimjihun-dev/dj-portblog/blob/master/pro.png" width="50%">
+<img src="https://github.com/kimjihun-dev/dj-portblog/blob/master/blog.png" width="50%">
 
 
